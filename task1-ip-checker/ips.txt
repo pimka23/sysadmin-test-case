@@ -1,0 +1,22 @@
+8.8.8.8
+# random comment
+1.1.1.1
+256.1.1.1
+invalid-ip-adress
+192.168.1.254
+192.168.1.1
+192.168.0.1
+# another random comment
+google.com
+
+ppgk.ru
+
+makprof.ru
+
+pavpos.ru
+
+yandex.ru
+
+vk.com
+127.0.0.1
+10.0.0.1
